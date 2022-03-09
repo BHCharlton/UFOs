@@ -6,9 +6,16 @@ Are we really alone in our universe?  Many individuals would definitively say ye
 The webpage will be created using several of the most useful tools in JavaScript linked to an HTML file that will allow us to set up the site to Dana's thinking.  The final result will be an interactive webpage that includes components such as a page header with image, a data table, searh filters, and more that is easy to navigate and interpret.
   
 ## Results
-The most critical element of the webpage needed to be the search filters.  Dana wanted to be sure that the user could easily refine the overall data information based upon the date, city, state, country, and the shape (what was observed).
+The most critical element of the webpage needed to be the search filters.  Dana wanted to be sure that the user could easily refine the overall data information based upon the date, city, state, country, and the shape:
 
-![Filter](https://github.com/BHCharlton/UFOs/blob/main/Search_filter.png)
+![Filterbox](https://github.com/BHCharlton/UFOs/blob/main/Search_filter.png)
 
-To the right of the search filters will be a complete list of the data available to the user.
+To the right of the search filters will be a complete, unfiltered list of the data available to the user:
+
+![Fulltable](https://github.com/BHCharlton/UFOs/blob/main/Data_table.PNG)
+
+Finally, the user can type in specific information they want to obtain using the search boxes.  They can search by any number of filters desired, and the results will be updated accordingly after pressing enter.  Here is an example of the search results when the date was set for 1/11/2010 with Florida as the state:
+
+![Searchresults](
+
 ## Summary
