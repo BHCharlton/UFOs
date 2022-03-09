@@ -8,5 +8,7 @@ The webpage will be created using several of the most useful tools in JavaScript
 ## Results
 The most critical element of the webpage needed to be the search filters.  Dana wanted to be sure that the user could easily refine the overall data information based upon the date, city, state, country, and the shape (what was observed).
 
+![Filter](https://github.com/BHCharlton/UFOs/blob/main/Search_filter.png)
 
+To the right of the search filters will be a complete list of the data available to the user.
 ## Summary
