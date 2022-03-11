@@ -8,17 +8,17 @@ The webpage will be created using several of the most useful tools in JavaScript
 ## Results
 The most critical element of the webpage needed to be the search filters.  Dana wanted to be sure that the user could easily refine the overall data information based upon the date, city, state, country, and the shape.  Search boxes are added to the far left of the page for the user to type in their search criteria.
 
-![Filterbox](https://github.com/BHCharlton/UFOs/blob/main/Search_filter.png)
+![Filterbox](https://github.com/BHCharlton/UFOs/blob/main/static/images/Search_filter.png)
 
 
 To the right of the search boxes will be a complete, unfiltered list of the data available to the user.
 
-![Fulltable](https://github.com/BHCharlton/UFOs/blob/main/Data_table.PNG)
+![Fulltable](https://github.com/BHCharlton/UFOs/blob/main/static/images/Data_table.PNG)
 
 
 Finally, the user can type in the specific information they want to obtain using the search boxes.  They can search by any number of filters desired, and the results will be updated accordingly after pressing enter.  Here is an example of the search results when the date was set for 1/11/2010 with Florida as the state.
 
-![Searchresults](https://github.com/BHCharlton/UFOs/blob/main/Search_results.PNG)
+![Searchresults](https://github.com/BHCharlton/UFOs/blob/main/static/images/Search_results.PNG)
 
 
 Each box can be individually cleared and updated as many times as needed if the user would like to refine their search.
